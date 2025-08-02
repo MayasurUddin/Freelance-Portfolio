@@ -21,7 +21,7 @@ Welcome to my freelance portfolio! I offer professional services in:
 ### 🧾 Sample Files Included:
 |        File                  |                         Description                         |
 |------------------------------|-------------------------------------------------------------|
-| `Report.docx`                | My Resume.                        |
+| `Resume.pdf`                | My Resume.                        |
 | `SHYAMOLI PARIBAHAN.pptx` | PowerPoint presentation on SHYAMOLI PARIBAHAN. |
 | `Monapoli.c`                 | A board game in the C programming language.                     |
 
